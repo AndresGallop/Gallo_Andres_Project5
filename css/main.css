@@ -6,7 +6,8 @@ body{
 
 .mainContainer{
   margin: auto;
-  max-width: 1400px;
+  max-width: 1600px;
+	flex: 1 1 auto;
 }
 
 .menu{
@@ -324,6 +325,7 @@ body{
 		height: 88px;
 		background-color: lightgreen;
 		background-position: 1250px 1950px;
+
 	}
 
 	.logo{
